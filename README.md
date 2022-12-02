@@ -21,3 +21,14 @@ The primary objective of this project is automation of tags that will identify t
 ### Solution Space
 
 Our process helps users and organizations identify if any personal information is stored in the data by using meta data tags. Whenever a survey data is collected, user information is stored, medical/insurance records are collected there are chances of personal information being shared externally. This solution is for data protection and privacy. It helps us scan, detect and automatically tag data and columns that contain PII data.
+
+
+### RESULTS 
+
+Figure below shows us the data parsed to the routine and figure 43 shows us the tags identified from the text file passed. The regex identifies if there are any email id, ssn, phone numbers, credit card details, drivers in the text file that has been passed to the routine.
+
+![Alt text](images/input.png?raw=true "Title")
+
+Figure below  shows the function used to return the PII data in the text file. As a result, the text file contains the PII information such as the email address, phone number, and credit card.
+
+![Alt text](images/output.png?raw=true "Title")
