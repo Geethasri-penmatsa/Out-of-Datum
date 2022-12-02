@@ -11,3 +11,13 @@ The extensive use of personally identifiable information (PII), which has caused
 # Architecture Diagram
 
 ![Alt text](images/schematic.png?raw=true "Title")
+
+
+### Bussines objective
+
+The primary objective of this project is automation of tags that will identify the PII data. Apart from this, the value we intend to provide is the security of PII. We believe this will help the users and organizations to be aware of the existence of PII in their data and in turn, take necessary measures to protect this sensitive PII from unauthorized access.
+
+
+### Solution Space
+
+Our process helps users and organizations identify if any personal information is stored in the data by using meta data tags. Whenever a survey data is collected, user information is stored, medical/insurance records are collected there are chances of personal information being shared externally. This solution is for data protection and privacy. It helps us scan, detect and automatically tag data and columns that contain PII data.
