@@ -10,4 +10,4 @@ The extensive use of personally identifiable information (PII), which has caused
 
 # Architecture Diagram
 
-![Alt text](images/schematic diagram.png?raw=true "Title")
+![Alt text](images/schematic.png?raw=true "Title")
