@@ -25,7 +25,7 @@ Our process helps users and organizations identify if any personal information i
 
 ### RESULTS 
 
-Figure below shows us the data parsed to the routine and figure 43 shows us the tags identified from the text file passed. The regex identifies if there are any email id, ssn, phone numbers, credit card details, drivers in the text file that has been passed to the routine.
+Figure below shows us the data parsed to the routine. The regex identifies if there are any email id, ssn, phone numbers, credit card details, drivers in the text file that has been passed to the routine.
 
 ![Alt text](images/input.png?raw=true "Title")
 
