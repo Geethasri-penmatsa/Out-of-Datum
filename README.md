@@ -32,3 +32,10 @@ Figure below shows us the data parsed to the routine and figure 43 shows us the 
 Figure below  shows the function used to return the PII data in the text file. As a result, the text file contains the PII information such as the email address, phone number, and credit card.
 
 ![Alt text](images/output.png?raw=true "Title")
+
+
+### Information about the files.
+
+- The file umap patients dataset.ipynb script for UMAP of patients dataset.
+- The file unstructregex.py contains script for functioning of the regex.
+- The file  unstructregex.ipynb imports function from unstructregex.py to detect and scan the PII in the text.
