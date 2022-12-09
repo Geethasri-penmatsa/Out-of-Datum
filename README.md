@@ -46,3 +46,5 @@ Figure below  shows the function used to return the PII data in the text file. A
 - Downlaod unstructregex.py and unstructregex.ipynb. 
 - Run the unstructregex.ipynb by providing input as your text file. 
 - Voila, you can now see the PII detected in your file. 
+
+![Alt text](images/web page.png?raw=true "Title")
