@@ -38,7 +38,9 @@ Figure below  shows the function used to return the PII data in the text file. A
 
 - The file umap patients dataset.ipynb script for UMAP of patients dataset.
 - The file unstructregex.py contains script for functioning of the regex.
-- The file  unstructregex.ipynb imports function from unstructregex.py to detect and scan the PII in the text.
+- The file unstructregex.ipynb imports function from unstructregex.py to detect and scan the PII in the text.
+- The file machinelearningmodel.ipynb contains script to detect PII using regex, spaCy, and stanza for structured and semi-structured data. 
+- The file 'bert model.ipynb' contains our trained BERT model.
 
 ### Steps to detect PII in unstructured dataset.
 
